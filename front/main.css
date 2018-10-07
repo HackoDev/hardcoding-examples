@@ -1,0 +1,14 @@
+.deleted-item {
+    padding: 10px;
+    border: 1px solid black;
+    float: left;
+}
+
+.wrapper:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+
+fix me
